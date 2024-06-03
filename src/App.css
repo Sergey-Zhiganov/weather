@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.city-weather {
+  margin: 10px 0;
+}
+
+.weather-search {
+  margin-bottom: 20px;
+}
+
+.weather-details {
+  display: flex;
+  justify-content: space-around;
+}
